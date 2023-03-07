@@ -34,4 +34,4 @@ If the GitHub staff reviewer is the same person who made the initial determinati
 
 ## Transparency
 
-We track appeals and reinstatements in our [transparency reports](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements).
+We track appeals and reinstatements in our [transparency reports]([https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements](https://github.blog/2023-02-15-2022-transparency-report/)).
